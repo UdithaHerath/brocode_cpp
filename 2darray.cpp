@@ -3,7 +3,7 @@
 int main(){
 	
 
-	std::cout << "Edited by uditha\n";	
+	std::cout << "deleted by the deve_op\n";	
 
     std::string cars[][3] = {{"Mustang", "Escape", "F- 100"},
                             {"Covette", "Equinox", "silvero"},
