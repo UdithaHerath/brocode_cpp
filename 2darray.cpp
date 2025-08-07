@@ -1,9 +1,6 @@
 #include <iostream>
 
-int main(){
-	
-
-	std::cout << "deleted by the deve_op\n";	
+int main(){	
 
     std::string cars[][3] = {{"Mustang", "Escape", "F- 100"},
                             {"Covette", "Equinox", "silvero"},
